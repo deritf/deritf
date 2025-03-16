@@ -1,4 +1,4 @@
-# Derimán Tejera Fumero - Desarrollador Web Enfocado en Frontend y Crecimiento Full-Stack
+# Derimán Tejera Fumero - Desarrollador Web Enfocado en Frontend y en progreso a Full-Stack
 
 Soy Derimán, un **Desarrollador Web** con una sólida base en el sector de la **electricidad y energías renovables**, donde trabajé diseñando e instalando soluciones técnicas. Sin embargo, las limitaciones en el **crecimiento personal y creativo** dentro de ese sector me impulsaron a buscar un camino que me permitiera innovar y optimizar procesos de forma más eficiente.
 
@@ -21,7 +21,6 @@ Durante mi formación académica y práctica, he desarrollado diversos proyectos
 | <p align="center"><a href="https://react.dev/" title="React" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a></p> | | | | |
 | <p align="center"><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a></p> | | | | |
 | <p align="center"><a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a></p> | | | | |
-
 
 ## Mis Estadísticas en GitHub
 

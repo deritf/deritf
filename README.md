@@ -1,12 +1,12 @@
 # Derimán Tejera Fumero - Desarrollador Web Enfocado en Frontend y en progreso a Full-Stack
 
-¡Hola! Soy Derimán, un **Desarrollador Web** con una sólida base en el sector de la **electricidad y energías renovables**, donde trabajé diseñando e instalando soluciones técnicas. Sin embargo, las limitaciones en el **crecimiento personal y creativo** dentro de ese sector me impulsaron a buscar un camino que me permitiera innovar y optimizar procesos de forma más eficiente.
+¡Hola! Soy Derimán, un **Desarrollador Web** con una sólida base en el sector de la **electricidad y energías renovables**, donde trabajé diseñando e instalando soluciones técnicas. Sin embargo, las limitaciones en el **crecimiento personal y creativo** dentro de ese sector me impulsaron a buscar nuevas formas de innovar y optimizar procesos.
 
-A lo largo de mi vida, tuve varios **acercamientos esporádicos con la programación**, experiencias que siempre despertaron mi curiosidad y motivación por comprender y crear soluciones mediante el código. Aunque estos encuentros fueron breves, dejaron una huella que, con el tiempo, me llevó a dar el paso definitivo y adentrarme de lleno en el desarrollo de software.
+A lo largo de mi vida, tuve varios **acercamientos esporádicos con la programación**, experiencias que siempre despertaron mi curiosidad y motivación por comprender y construir soluciones mediante el código. Aunque estos encuentros fueron breves, dejaron una huella que, con el tiempo, me llevó a dar el paso definitivo y sumergirme de lleno en el desarrollo de software.
 
-Hoy veo en el desarrollo una herramienta poderosa para **resolver problemas y automatizar todo aquello que pueda optimizarse**, simplificando tareas complejas y aportando valor real a través de soluciones digitales. Esta motivación me llevó a especializarme en el desarrollo **frontend**, enfocado en crear interfaces web **responsivas, intuitivas y funcionales**.
+Hoy, veo en la programación una herramienta poderosa para **resolver problemas y automatizar todo aquello que pueda optimizarse**, simplificando tareas complejas y aportando valor real mediante soluciones digitales. Esta motivación me llevó a especializarme en el desarrollo **frontend**, enfocado en crear interfaces web **responsivas, intuitivas y funcionales**.
 
-Actualmente, poseo experiencia en **HTML5, CSS3, SCSS, JavaScript y PHP**, y estoy ampliando mis habilidades en **React** y **Laravel** para consolidar mi perfil como desarrollador full-stack. También he trabajado con **Bootstrap** y planeo profundizar en **Tailwind CSS** para optimizar mis diseños. En el ámbito de bases de datos, manejo **MySQL** y tengo conocimientos en **Java** y **C++**.
+Actualmente, tengo experiencia en **HTML5, CSS3, SCSS, JavaScript y PHP**, y estoy ampliando mis habilidades en **React** y **Laravel** para consolidar mi perfil como desarrollador full-stack. También he trabajado con **Bootstrap** y planeo profundizar en **Tailwind CSS** para optimizar mis diseños. En el ámbito de bases de datos, manejo **MySQL** y poseo conocimientos en **Java** y **C++**.
 
 Durante mi formación académica y práctica, he desarrollado diversos proyectos que reflejan mi compromiso con la **usabilidad, la automatización y la eficiencia en la gestión de datos**. Mi enfoque está orientado a diseñar **experiencias de usuario fluidas** y a crear **soluciones escalables** que simplifiquen procesos y aporten valor real, siempre bajo una filosofía de **mejora continua** y aprendizaje constante.
 
@@ -14,13 +14,28 @@ Durante mi formación académica y práctica, he desarrollado diversos proyectos
 
 | **Frontend** | **Backend** | **Bases de Datos** | **Diseño** | **Control de Versiones** |
 |--------------|------------|--------------------|-----------|--------------------------|
-| <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a></p> | <p align="center"><a href="https://www.php.net/" title="PHP" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a></p> | <p align="center"><a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p> | <p align="center"><a href="https://www.figma.com/" title="Figma" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a></p> | <p align="center"><a href="https://git-scm.com/" title="Git" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a></p> |
-| <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a></p> | <p align="center"><a href="https://laravel.com/" title="Laravel" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a></p> | | <p align="center"><a href="https://www.autodesk.com/products/autocad/overview" title="AutoCAD" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" /></a></p> | <p align="center"><a href="https://github.com/" title="GitHub" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></p> |
-| <p align="center"><a href="https://sass-lang.com/" title="SCSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=scss" alt="SCSS" /></a></p> | <p align="center"><a href="https://www.java.com/" title="Java" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a></p> | | | |
-| <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a></p> | <p align="center"><a href="https://isocpp.org/" title="C++" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a></p> | | | |
-| <p align="center"><a href="https://react.dev/" title="React" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a></p> | | | | |
-| <p align="center"><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a></p> | | | | |
-| <p align="center"><a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a></p> | | | | |
+| <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a> </p> 
+| <p align="center"> <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a> </p> 
+| <p align="center"> <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> </p> 
+| <p align="center"> <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a> </p> 
+| <p align="center"> <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> </p> |
+| <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a> </p> 
+| <p align="center"> <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a> </p> 
+|  | 
+| <p align="center"> <a href="https://www.autodesk.com/products/autocad/overview" title="AutoCAD"><img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" /></a> </p> 
+| <p align="center"> <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> </p> |
+| <p align="center"> <a href="https://sass-lang.com/" title="SCSS"><img src="https://skillicons.dev/icons?i=scss" alt="SCSS" /></a> </p> 
+| <p align="center"> <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> </p> 
+|  |  |  |
+| <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> </p> 
+| <p align="center"> <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> </p> 
+|  |  |  |
+| <p align="center"> <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a> </p> 
+|  |  |  |  |
+| <p align="center"> <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> </p> 
+|  |  |  |  |
+| <p align="center"> <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a> </p> 
+|  |  |  |  |
 
 ## Mis Estadísticas en GitHub
 

@@ -14,28 +14,13 @@ Durante mi formación académica y práctica, he desarrollado diversos proyectos
 
 | **Frontend** | **Backend** | **Bases de Datos** | **Diseño** | **Control de Versiones** |
 |--------------|------------|--------------------|-----------|--------------------------|
-| <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a> </p> 
-| <p align="center"> <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a> </p> 
-| <p align="center"> <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> </p> 
-| <p align="center"> <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a> </p> 
-| <p align="center"> <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> </p> |
-| <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a> </p> 
-| <p align="center"> <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a> </p> 
-|  | 
-| <p align="center"> <a href="https://www.autodesk.com/products/autocad/overview" title="AutoCAD"><img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" /></a> </p> 
-| <p align="center"> <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a> </p> |
-| <p align="center"> <a href="https://sass-lang.com/" title="SCSS"><img src="https://skillicons.dev/icons?i=scss" alt="SCSS" /></a> </p> 
-| <p align="center"> <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> </p> 
-|  |  |  |
-| <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> </p> 
-| <p align="center"> <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> </p> 
-|  |  |  |
-| <p align="center"> <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a> </p> 
-|  |  |  |  |
-| <p align="center"> <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a> </p> 
-|  |  |  |  |
-| <p align="center"> <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a> </p> 
-|  |  |  |  |
+| <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a></p> | <p align="center"><a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a></p> | <p align="center"><a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p> | <p align="center"><a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a></p> | <p align="center"><a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a></p> |
+| <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a></p> | <p align="center"><a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a></p> | | <p align="center"><a href="https://www.autodesk.com/products/autocad/overview" title="AutoCAD"><img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" /></a></p> | <p align="center"><a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></p> |
+| <p align="center"><a href="https://sass-lang.com/" title="SCSS"><img src="https://skillicons.dev/icons?i=scss" alt="SCSS" /></a></p> | <p align="center"><a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a></p> | | | |
+| <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a></p> | <p align="center"><a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a></p> | | | |
+| <p align="center"><a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a></p> | | | | |
+| <p align="center"><a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a></p> | | | | |
+| <p align="center"><a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a></p> | | | | |
 
 ## Mis Estadísticas en GitHub
 

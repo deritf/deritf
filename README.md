@@ -38,6 +38,9 @@ Durante mi formación académica y práctica, he desarrollado diversos proyectos
     <a href="https://github.com/deritf/DAW">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=deritf&repo=DAW&theme=dark" alt="DAW" />
     </a>
+        <a href="https://github.com/deritf/flight-survey-management-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deritf&repo=flight-survey-management-app&theme=dark" alt="Flight survey management app" />
+    </a>
     <a href="https://github.com/deritf/code-learning-projects">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=deritf&repo=code-learning-projects&theme=dark" alt="Code learning projects" />
     </a>

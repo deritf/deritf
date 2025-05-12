@@ -32,6 +32,9 @@ Durante mi formación académica y práctica, he desarrollado diversos proyectos
 
 <div align="center">
   <p style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/deritf/final-project-daw-libritos-online-bookstore">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=deritf&repo=final-project-daw-libritos-online-bookstore&theme=dark" alt="Libritos" />
+    </a>
     <a href="https://github.com/deritf/project-hardwaretown-store">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=deritf&repo=project-hardwaretown-store&theme=dark" alt="HardwareTown" />
     </a>
